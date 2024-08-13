@@ -1,0 +1,23 @@
+
+[
+    {
+        "id": 0,
+        "image": "Images/классы + фон.png",
+        "url": "#"
+    },
+    {
+        "id": 1,
+        "image": "Images/олимпиада + фон.png",
+        "url": "#"
+    },
+    {
+        "id": 2,
+        "image": "Images/кружки + фон.png",
+        "url": "#"
+    },
+    {
+        "id": 3,
+        "image": "Images/лагерь + фон.png",
+        "url": "#"
+    }
+]
