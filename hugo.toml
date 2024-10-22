@@ -1,64 +1,13 @@
-baseURL = 'https://localhost/'
+baseURL = 'https://example.org/'
 languageCode = 'ru-ru'
 title = 'Юношеская Математическая Школа'
-
-theme = "hugo-initio"
+theme = "quint"
+summaryLength = 20                  # Number of characters in your card summaries
 
 [params]
-    name = ""
-    description = ""
-    email = ""
-    phone = ""
-    address = ""
-    year = 2024
-    avatar = ""
-    avatarclass = "null"
-    background = ""
-    banner = "Images/ban.png"
-    favicon = "Images/favicon.png"
-    DateForm = ""
-    author = ""
+useToc = true
+description = 'Demo site for the Hugo theme Quint.'
 
-    showSubheader = true
-    showServices = false
-    showRecentWorks = false
-    showDownloads = true
-    showClients = false
-    showButtons = true
+[markup.goldmark.renderer]
+    unsafe = true
 
-    showFooterContact = false
-    showFooterFollowMe = false
-    showFooterTextWidget = false
-    showFooterFormWidget = false
-
-
-[[menu.main]]
-    name = "О ЮМШ"
-    url = "/about/"
-    weight = 1
-[[menu.main]]
-    name = "Как с нами связаться"
-    url = "/links/"
-    weight = 5
-[[menu.main]]
-    name = "Новости"
-    url = "/news/"
-    weight = 5
-
-
-
-[[params.social]]
-	title = "VK"
-	url = "https://vk.com/yumsh.spbu"
-    icon = "fab fa-github"
-    footer = true
-    sharethis = false
-    network = ""
-
-[[params.social]]
-	title = "email"
-	url = "mailto:some.email@somewhere.com"
-    icon = "fas fa-envelope-square"
-    footer = false
-    sharethis = true
-    network = "email"

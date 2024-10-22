@@ -1,0 +1,64 @@
+{{ $paginator := .Paginator }}
+{{ if .IsHome }}
+  {{ $posts := where .Data.Pages "Section" .Section }}  <!-- Assuming 'content/blog' is the section for posts -->
+  {{ $paginator := .Paginate ($posts) }}
+{{ else }}
+  {{ $currentSection := .Section }}
+  {{ $posts := where .Site.Pages "Section" $currentSection }}
+  {{ $paginator := .Paginate ($posts) }}
+{{ end }}
+<div class="news" id="results">
+    {{ range .Paginator.Pages }}
+        {{if .Params.isNews}}
+            <div class="card h-entry">
+                <a href="{{ .Permalink }}" class="u-url">
+                    <div class="text">
+                        <h2 class="p-name">{{ .Title }}</h2>
+                    </div>
+                    {{ with .Params.imageSmall }}
+                        <img src="{{ . }}" alt="{{ $.Title }}" class="u-photo">
+                    {{ else }}
+                        <!-- {{ partial "randImage" . }} -->
+                    {{ end }}
+                    <div class="text">
+                        <p class="small e-content">{{ .Description }}
+                        </p>
+
+                        <div class="post-data row">
+                            <time class="dt-published" datetime="{{ .Date }}">
+                                <a class="u-url" href="{{ .Permalink }}">{{ .Date | time.Format ":date_medium" }}</a>
+                            </time>
+                            <span rel="author" class="p-author h-card">
+                                <img class="u-photo hidden" src="{{ with $.Site.Author.image }}{{ . }}{{ else }}{{ end }}" />
+                                <span class="p-name hidden" rel="me">{{ with .Params.author }}{{ . }}{{ else }}{{ $.Site.Author.name }}{{ end }}</span>
+                            </span>
+                        </div>
+                    </div>
+                    <hr width="80%" align="left"> </hr>
+                </a>
+            </div>
+        {{ else }}
+
+        {{ end }}
+    {{ end }}
+</div>
+<!-- Pagination links -->
+{{ if gt $paginator.TotalPages 1 }}
+    <div class="pagination">
+        {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}">before</a>
+        {{ else }}
+            <p></p>
+        {{ end }}
+        <div class="pages">
+            {{ range $paginator.Pagers }}
+                <a href="{{ .URL }}"{{ if eq . $paginator }} class="active"{{ end }}>{{ .PageNumber }}</a>
+            {{ end }}
+        </div>
+        {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}">more</a>
+        {{ else }}
+            <p></p>
+        {{ end }}
+    </div>
+{{ end }}

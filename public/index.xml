@@ -1,54 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Юношеская Математическая Школа</title>
+    <title>Юношеская Математическая Школа</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Юношеская Математическая Школа</description>
+    <description>Recent content on Юношеская Математическая Школа</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 01:40:13 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Download original template</title>
-      <link>http://localhost:1313/home/downloads/download1/</link>
+      <title>Классы ЮМШ</title>
+      <link>http://localhost:1313/blog/%D0%BA%D0%BB%D0%B0%D1%81%D1%81/</link>
+      <pubDate>Mon, 06 May 2024 01:40:13 +0000</pubDate>
+      <guid>http://localhost:1313/blog/%D0%BA%D0%BB%D0%B0%D1%81%D1%81/</guid>
+      <description>11 11&#xA;Minimalist Design At the heart of Quint lies a deep commitment to minimalism. This theme is crafted to ensure that every element serves a purpose, harmonizing both form and function.</description>
+    </item>
+    <item>
+      <title>Кружки ЮМШ</title>
+      <link>http://localhost:1313/blog/%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B8/</link>
+      <pubDate>Mon, 06 May 2024 01:40:13 +0000</pubDate>
+      <guid>http://localhost:1313/blog/%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B8/</guid>
+      <description>Welcome to Quint, a Hugo theme designed for those who appreciate simplicity and elegance. Quint strips away the unnecessary, focusing on what&amp;rsquo;s essential to create a light, airy, and highly readable web experience.</description>
+    </item>
+    <item>
+      <title>Летний лагерь ЮМШ</title>
+      <link>http://localhost:1313/blog/%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C/</link>
+      <pubDate>Mon, 06 May 2024 01:40:13 +0000</pubDate>
+      <guid>http://localhost:1313/blog/%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C/</guid>
+      <description>ghbdtn&#xA;d ad fas das dfas&#xA;asdasda</description>
+    </item>
+    <item>
+      <title>Олимпиада ЮМШ</title>
+      <link>http://localhost:1313/blog/%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0/</link>
+      <pubDate>Mon, 06 May 2024 01:40:13 +0000</pubDate>
+      <guid>http://localhost:1313/blog/%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0/</guid>
+      <description>Welcome to Quint, a Hugo theme designed for those who appreciate simplicity and elegance. Quint strips away the unnecessary, focusing on what&amp;rsquo;s essential to create a light, airy, and highly readable web experience.</description>
+    </item>
+    <item>
+      <title>фигня</title>
+      <link>http://localhost:1313/news/%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B8/</link>
+      <pubDate>Mon, 06 May 2024 01:40:13 +0000</pubDate>
+      <guid>http://localhost:1313/news/%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B8/</guid>
+      <description>Welcome to Quint, a Hugo theme designed for those who appreciate simplicity and elegance. Quint strips away the unnecessary, focusing on what&amp;rsquo;s essential to create a light, airy, and highly readable web experience.</description>
+    </item>
+    <item>
+      <title>Вопросы</title>
+      <link>http://localhost:1313/questions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/downloads/download1/</guid>
-      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+      <guid>http://localhost:1313/questions/</guid>
+      <description>О кружках ЮМШ Можно ли еще записаться в кружок ЮМШ? Когда и как это сделать? Какие вступительные испытания? В кружки нового набора (они так и названы в расписании) прийти можно в любой момент в течение учебного года, и никаких вступительных испытаний проходить не нужно.</description>
     </item>
     <item>
-      <title>Post 3</title>
-      <link>http://localhost:1313/posts/post-3/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-3/</guid>
-      <description>Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum.</description>
-    </item>
-    <item>
-      <title>Post 2</title>
-      <link>http://localhost:1313/posts/post-2/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-2/</guid>
-      <description>Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&#xA;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia.</description>
-    </item>
-    <item>
-      <title>Post 1</title>
-      <link>http://localhost:1313/posts/post-1/</link>
-      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-1/</guid>
-      <description>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&#xA;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/home/subheader/</link>
+      <title>Вопросы</title>
+      <link>http://localhost:1313/questionss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/subheader/</guid>
-      <description>Юношеская Математическая Школа — это общественная организация, занимающаяся математическим просвещением школьников. Наша основная деятельность — это кружки, специализированные классы ЮМШ, летние лагеря, проведение традиционных олимпиад ЮМШ.&#xA;Классы и большинство кружков базируются в лицее 533 Санкт-Петербурга.</description>
+      <guid>http://localhost:1313/questionss/</guid>
+      <description>О кружках ЮМШ скрытые вопросы&#xA;Об Олимпиаде ЮМШ </description>
     </item>
     <item>
-      <title>Download HUGO template</title>
-      <link>http://localhost:1313/home/downloads/download2/</link>
+      <title>О ЮМШ</title>
+      <link>http://localhost:1313/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/downloads/download2/</guid>
-      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+      <guid>http://localhost:1313/history/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
