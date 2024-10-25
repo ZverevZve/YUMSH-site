@@ -1,0 +1,125 @@
+
+
+backend:
+      name: "github"
+      repo: "ZverevZve/YUMSH-site"
+      branch: "cms"
+
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+logo_url: https://your-site.com/images/logo.png
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Новости" # Used in the UI, ie.: "New Post"
+    folder: content\news # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Заголовок", name: "title", widget: "string"}
+      - {label: "Дата", name: "date", widget: "datetime"}
+      - {label: "Скрыть", name: "draft", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "string", required: false}
+      - {label: "Новость?", name: "isNews", widget: "boolean", default: true}
+    # meta: # Meta data fields. Just like fields, but without any preview element
+    # meta: {isNews: {widget: "boolean", label: "Новость?", default: true}}
+
+  - name: "cards" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Квадратики на главном экране" # Used in the UI, ie.: "New Post"
+    folder: content # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Заголовок", name: "title", widget: "string"}
+      - {label: "Дата", name: "date", widget: "datetime", required: false}
+      - {label: "Скрыть", name: "draft", widget: "boolean", default: false}
+      - {label: "Маленькая картинка", name: "imageSmall", widget: "image"}
+      - {label: "Картинка заголовка", name: "image", widget: "image"}
+      - {label: "Описание", name: "description:", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "string", required: false}
+      - {label: "На главный экран?", name: "isCard", widget: "boolean", default: true}
+    # meta: # Meta data fields. Just like fields, but without any preview element
+    # meta: {isNews: {widget: "boolean", label: "Новость?", default: true}} description: 
+
+  - name: "nemu" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Меню на верху" # Used in the UI, ie.: "New Post"
+    folder: content\yumsh # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Заголовок", name: "title", widget: "string"}
+      - {label: "Дата", name: "date", widget: "datetime", default: "", required: false}
+      - {label: "Скрыть", name: "draft", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "string", required: false}
+      - {label: "Меню", name: "menus", widget: "string", default: "main"}
+    # meta: # Meta data fields. Just like fields, but without any preview element
+    # meta: {isNews: {widget: "boolean", label: "Новость?", default: true}}
+
+  - name: "capm" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Лагерь" # Used in the UI, ie.: "New Post"
+    folder: content\capm # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Заголовок", name: "title", widget: "string"}
+      - {label: "Дата", name: "date", widget: "datetime", default: "", required: false}
+      - {label: "Скрыть", name: "draft", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "string", required: false}
+    # meta: # Meta data fields. Just like fields, but without any preview element
+    # meta: {isNews: {widget: "boolean", label: "Новость?", default: true}}
+
+  - name: "class" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Классы" # Used in the UI, ie.: "New Post"
+    folder: content\class # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Заголовок", name: "title", widget: "string"}
+      - {label: "Дата", name: "date", widget: "datetime", default: "", required: false}
+      - {label: "Скрыть", name: "draft", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "string", required: false}
+    # meta: # Meta data fields. Just like fields, but without any preview element
+    # meta: {isNews: {widget: "boolean", label: "Новость?", default: true}}
+
+  - name: "club" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Кружки" # Used in the UI, ie.: "New Post"
+    folder: content\club # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Заголовок", name: "title", widget: "string"}
+      - {label: "Дата", name: "date", widget: "datetime", default: "", required: false}
+      - {label: "Скрыть", name: "draft", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "string", required: false}
+    # meta: # Meta data fields. Just like fields, but without any preview element
+    # meta: {isNews: {widget: "boolean", label: "Новость?", default: true}}
+
+  - name: "olymp" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Олимпиада" # Used in the UI, ie.: "New Post"
+    folder: content\olymp # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Заголовок", name: "title", widget: "string"}
+      - {label: "Дата", name: "date", widget: "datetime", default: "", required: false}
+      - {label: "Скрыть", name: "draft", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "string", required: false}
+    # meta: # Meta data fields. Just like fields, but without any preview element
+    # meta: {isNews: {widget: "boolean", label: "Новость?", default: true}}
+    
+        

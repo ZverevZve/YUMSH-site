@@ -2,22 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-05-06T01:40:13+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/news/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/%D0%BA%D0%BB%D0%B0%D1%81%D1%81/</loc>
+    <loc>http://localhost:1313/class/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B8/</loc>
+    <loc>http://localhost:1313/club/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C/</loc>
+    <loc>http://localhost:1313/camp/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0/</loc>
+    <loc>http://localhost:1313/olymp/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B8/</loc>
@@ -30,8 +27,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/questions/</loc>
+    <loc>http://localhost:1313/yumsh/</loc>
   </url><url>
-    <loc>http://localhost:1313/history/</loc>
+    <loc>http://localhost:1313/yumsh/questions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/yumsh/history/</loc>
   </url>
 </urlset>
