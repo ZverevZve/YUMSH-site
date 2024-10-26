@@ -1,4 +1,4 @@
-baseURL = 'https://zverevzve.github.io/YUMSH-site/'
+baseURL = 'https://zverevzve.github.io/'
 languageCode = 'ru-ru'
 title = 'Юношеская Математическая Школа'
 theme = "quint"
