@@ -19,5 +19,5 @@ home = [ "HTML", "RSS", "HeadlessCMSConfig" ]
 
 [params.headless_cms]
 engine = "decap"
-site_url = "https://zverevzve.github.io/YUMSH-site/"
+site_url = "https://zverevzve.github.io/"
 
