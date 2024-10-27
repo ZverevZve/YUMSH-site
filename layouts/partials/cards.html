@@ -11,7 +11,7 @@
     {{ range .Paginator.Pages }}
         {{if .Params.isCard}}
             <div class="card h-entry">
-                <a href="{{ .Permalink }}" class="u-url">
+                <a href="{{ .RelPermalink }}" class="u-url">
                     {{ with .Params.imageSmall }}
                         <img src="{{ . }}" alt="{{ $.Title }}" class="u-photo">
                     {{ else }}

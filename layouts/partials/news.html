@@ -11,7 +11,7 @@
     {{ range .Paginator.Pages }}
         {{if .Params.isNews}}
             <div class="card h-entry">
-                <a href="{{ .Permalink }}" class="u-url">
+                <a href="{{ .RelPermalink }}" class="u-url">
                     <div class="text">
                         <h2 class="p-name">{{ .Title }}</h2>
                     </div>

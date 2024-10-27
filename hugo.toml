@@ -1,4 +1,4 @@
-baseURL = 'https://zverevzve.github.io/'
+baseURL = 'https://zverevzve.github.io/YUMSH-site/'
 languageCode = 'ru-ru'
 title = 'Юношеская Математическая Школа'
 theme = "quint"
@@ -19,6 +19,6 @@ path = "github.com/privatemaker/headless-cms"
 home = [ "HTML", "RSS", "HeadlessCMSConfig" ]
 
 [params.headless_cms]
-engine = "decap"
-site_url = "https://zverevzve.github.io/"
+engine = "sveltia"
+site_url = "https://zverevzve.github.io/YUMSH-site/"
 
