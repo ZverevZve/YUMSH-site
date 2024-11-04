@@ -3,7 +3,7 @@
 backend:
       name: "github"
       repo: "ZverevZve/YUMSH-site"
-      branch: "cms"
+      branch: "master"
       base_url: "https://sveltia-cms-auth.zverev-zve.workers.dev"
 
 
