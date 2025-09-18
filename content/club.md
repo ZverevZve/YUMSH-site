@@ -6,7 +6,7 @@ description: >-
   Welcome to Quint, a Hugo theme designed for those who appreciate simplicity
   and elegance. Quint strips away the unnecessary, foc...
 
-image: "/images/ban.png"
+image: "/images/ban club.jpg"
 imageSmall: "/images/area of ​​activity/club.png"
 isCard: true
 ---
