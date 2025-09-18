@@ -4,7 +4,7 @@ date: '2024-05-06T01:40:13.745Z'
 draft: false
 description: >-
   
-image: "/images/ban camp.jpg"
+image: "/images/ban olymp.jpg"
 imageSmall: "/images/area of ​​activity/olymp.png"
 isCard: true
 ---
