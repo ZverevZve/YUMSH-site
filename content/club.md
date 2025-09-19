@@ -62,7 +62,7 @@ isCard: true
 
 Кликай по картинке!
 
-[/images/ban astro.jpg](/club/astro)
+[![Ночь](/images/ban astro.jpg)](/club/astro)
 
 ---
 ## Конструкции и головоломки 
