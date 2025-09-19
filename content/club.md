@@ -60,9 +60,11 @@ isCard: true
 ---
 ## Кружки по астрономии
 
-Кликай по картинке!
 
-[![Ночь](/images/ban astro.jpg)](/club/astro)
+
+![Ночь](https://images/ban astro.jpg)
+
+[Кликай по картинке!](/club/astro)
 
 ---
 ## Конструкции и головоломки 
