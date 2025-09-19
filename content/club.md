@@ -62,8 +62,8 @@ isCard: true
 
 Кликай по картинке
 
-[![Ночь](https://../images/ban%20astro.jpg)](/club/astro)
-zverevzve.github.io/YUMSH-site
+[![Ночь](https://zverevzve.github.io/YUMSH-site/images/ban%20astro.jpg)](/club/astro)
+
 ---
 ## Конструкции и головоломки 
 
