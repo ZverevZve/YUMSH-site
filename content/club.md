@@ -60,12 +60,10 @@ isCard: true
 ---
 ## Кружки по астрономии
 
+Кликай по картинке
 
-
-![Ночь](https://zverevzve.github.io/YUMSH-site/images/ban%20astro.jpg)
-
-[Кликай по картинке!](/club/astro)
-
+[![Ночь](https://../images/ban%20astro.jpg)](/club/astro)
+zverevzve.github.io/YUMSH-site
 ---
 ## Конструкции и головоломки 
 
