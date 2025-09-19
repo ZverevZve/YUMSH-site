@@ -3,51 +3,73 @@ title: Кружки ЮМШ
 date: '2024-05-06T01:40:13.745Z'
 draft: false
 description: >-
-  Welcome to Quint, a Hugo theme designed for those who appreciate simplicity
-  and elegance. Quint strips away the unnecessary, foc...
 
 image: "/images/ban club.jpg"
 imageSmall: "/images/area of ​​activity/club.png"
 isCard: true
 ---
-Welcome to **Quint**, a Hugo theme designed for those who appreciate simplicity and elegance. Quint strips away the unnecessary, focusing on what's essential to create a light, airy, and highly readable web experience.
+Математические кружки — пожалуй, основная деятельность ЮМШ.
 
-## Minimalist Design
+Чем же занимаются дети на этих кружках? Решают интересные задачи, обсуждают их решения с преподавателями. Обычно, приходя на кружок, ученик получает листок с несколькими задачами, которые самостоятельно решает. Если он считает, что решил задачу, то поднимает руку и рассказывает решение одному из преподавателей. Те, кто не справился с задачей, узнают ее решение во время разбора — в конце кружка или на следующем занятии.
 
-At the heart of Quint lies a deep commitment to minimalism. This theme is crafted to ensure that every element serves a purpose, harmonizing both form and function. With Quint, your content takes the forefront, free from the distractions of overly complex design elements.
+---
+## Кружки по математике
 
-### Clean Typography
+Занятия кружков (кроме петергофского) происходят в помещении 533 лицея, по адресу: Санкт-Петербург, ул. Таллинская, д.26, к.2, 3 этаж. Ко всем кружкам для новичков присоединиться может любой желающий в любое время года без предварительной записи. Занятия всех кружков бесплатные. Подробнее о кружках ЮМШ — по ссылке.
 
-Quint uses the [Open Sauce Font](https://github.com/marcologous/Open-Sauce-Fonts) to enhance readability and ensures that your text is as enjoyable to read as it is easy on the eyes. The spacious line-height and optimal font sizes help reduce visual clutter, allowing your readers to focus on what matters most—the content.
+Занятия большинства кружков проходят дважды в неделю, продолжительность — около полутора часов. У учеников некоторых классов есть возможность выбрать время посещения кружка из нескольких вариантов. 
 
-### Light, Airy Color Palette
+Руководители каждого из кружков указаны на этой странице. Кроме этого, у каждого кружка есть группа вКонтакте, где могут публиковаться новости, размещаться задачи с кружка и прочее. Ссылки на эти группы указаны в заголовках.
 
-Using a palette that echoes the tranquility of early morning skies, Quint offers a refreshing visual experience. The soft greys and whites provide a backdrop that complements rather than competes with your images and text, creating a serene user experience.
 
-## Table of Contents
+Расписание на 2025-2026 учебный год (кружки начались, за исключением петергофского)
 
-An optional Table of Contents automatically appears as a side bar on any post with multiple headings.
+### Кружок 5 класса (каб. 304)
 
-## Responsive and Adaptive
+Первое занятие - вторник 16:30 или 18:15 (на выбор),
 
-Understanding the needs of users across different devices, Quint is meticulously designed to be fully responsive. Whether your readers are on a desktop, tablet, or mobile device, Quint adjusts beautifully and intuitively, providing a seamless experience across all platforms.
+второе занятие - пятница 16:30 или 18:15 (на выбор).
 
-### Image-First Approach
+### Кружок 6 класса (каб. 307)
 
-The theme’s layout puts a strong emphasis on imagery, with an elegant banner that adapts to all screen sizes. The image banner not only captivates but also sets the tone for each post or page, making it an integral part of the storytelling.
+Занятия для начинающих: среда 18:00 и суббота 17:00.
 
-## Easy Customization
+Занятия для продолжающих: вторник 18:00 и суббота 18:45.
 
-Quint is designed to be flexible and easy to customize without ever touching the theme code. Easily add your custom styles with CSS.
+### Кружок 7 класса (каб. 314)
 
-## Get Started with Quint
+Занятия для новичков - по средам и субботам в 16:20.
 
-Ready to transform your blog or website with Quint? Here’s how you can get started:
+### Кружок 8 класса (каб. 314)
 
-1. **Download Quint**: Visit the [theme repository](https://github.com/victoriadrake/hugo-theme-quint) to download Quint.
-2. **Install**: Follow our straightforward installation guide.
-3. **Customize**: Tailor Quint to fit your style and needs.
+Кружки будут проходить по понедельникам и пятницам с 17:00 до 19:00.
 
-## Join Our Community
+### Лекторий для 9-11 классов: 
 
-We invite you to join our community of Quint users. Share your experiences, get support, and stay updated on new features and updates. Your feedback helps us improve and grow Quint, shaping it into the most user-friendly Hugo theme ever.
+среда 17:00-19:30 в каб. 310. 
+
+### Петергофский кружок для 5-8 классов 
+
+(Университетский пр., д. 28, математико-механический факультет СПбГУ): информация уточняется. За подробностями обращайтесь к Динаре Александровне Бикуловой (в связи с наличием пропускной системы следует сделать это заблаговременно).
+
+Обращаем внимание тех, кто заполнял форму записи в кружок: когда станет полностью известно расписание, оно будет выслано на указанную вами электронную почту. Но вы можете приходить на кружок, даже если не получили это письмо. Никаких "подтверждений зачисления" по телефону или почте не будет, просто приходите в нужное время.
+
+---
+## Кружки по програмированию
+
+---
+## Кружки по астрономии
+
+---
+## Конструкции и головоломки 
+
+---
+## Лекторий ЮМШ
+
+Уважаемые 9, 10 и 11-классники!
+
+Приходите на «Математический лекторий ЮМШ».  Здесь Вам расскажут, например, как решать уравнения третьей или четвертой степени; как найти треугольник с минимальным периметром, вписанный в данный; как играть в игру «15» и почему, если переставить две соседние костяшки, ее невозможно собрать; а также многое другое.
+
+Занятия проводятся в ЮМШ по адресу ул. Таллинская, д. 26, к. 2 (м. Новочеркасская). Занятия бесплатные, вход свободный.
+
+В 2023 году лекторий для 9-11 классов будет проходить по средам в 17:00, каб. 309. Начало занятий с 13 сентября.
