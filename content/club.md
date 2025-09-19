@@ -62,7 +62,7 @@ isCard: true
 
 
 
-![Ночь](https://images/ban astro.jpg)
+![Ночь](https://zverevzve.github.io/YUMSH-site/images/ban%20astro.jpg)
 
 [Кликай по картинке!](/club/astro)
 
