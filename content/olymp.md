@@ -38,7 +38,7 @@ isCard: true
 
 Отборочные туры пройдут на платформе Т-образования. Регистрация [<span style="color:blue">здесь</span>](https://education.tbank.ru/school/events/yumsh-olymp/).
 
-[<span style="color:blue">Телеграм-бот</span>](https://t.me/t_olymp_UMSH_bot) - Технические вопросы, уточнения по условиям и т.д.)
+[<span style="color:blue">Телеграм-бот</span>](https://t.me/t_olymp_UMSH_bot) - Технические вопросы, уточнения по условиям и т.д.
  
 
 ### Результаты отборочного тура
