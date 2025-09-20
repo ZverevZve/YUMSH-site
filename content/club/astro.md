@@ -1,5 +1,5 @@
 ---
-title: Кружки по Асрономии
+title: Кружки по Астрономии
 date: '2024-05-06T01:40:13.745Z'
 draft: false
 description: >-
