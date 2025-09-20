@@ -11,7 +11,7 @@ image: "/images/ban olymp.jpg"
         <div id="block-system-main" class="block block-system">
             <div class="content">
                 <form action="/cms/ol-query" method="post" id="olymp-results-query-form" accept-charset="UTF-8">
-                    <div>Последнее обновление: 11th February 2025 11:48<br><strong>Замечание:</strong> Буквы "е" и "ё" считаются различными.
+                    <div><b>Замечание:</b> Буквы "е" и "ё" считаются различными.
                         <div class="form-item form-type-textfield form-item-family-name">
                             <label for="edit-family-name">Фамилия <span class="form-required" title="Обязательно для заполнения.">*</span></label>
                             <input type="text" id="edit-family-name" name="family_name" value="" size="60" maxlength="128" class="form-text required">
