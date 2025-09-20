@@ -36,7 +36,7 @@ isCard: true
 
 Второй отборочный тур олимпиады состоится 4 октября (суббота) с 16.00 до 21.00 по московскому времени. Если вы успешно прошли по результатам первого тура, то участовать во втором - не надо.
 
-Отборочные туры пройдут на платформе Т-образования. Регистрация [<span style="color:blue">здесь</span>](https://education.tbank.ru/school/events/yumsh-olymp/).
+Отборочный тур пройдет на платформе Т-образования. Регистрация [<span style="color:blue">здесь</span>](https://education.tbank.ru/school/events/yumsh-olymp/).
 
 [<span style="color:blue">Телеграм-бот</span>](https://t.me/t_olymp_UMSH_bot) - Технические вопросы, уточнения по условиям и т.д.
  
