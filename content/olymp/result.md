@@ -6,7 +6,6 @@ image: "/images/ban olymp.jpg"
 ---
 
 <div id="main" class="grid_12">    
-    <h1>Результаты отборочного тура</h1>
     <div class="region region-content">
         <div id="block-system-main" class="block block-system">
             <div class="content">
