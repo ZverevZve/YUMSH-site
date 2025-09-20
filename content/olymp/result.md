@@ -9,15 +9,13 @@ image: "/images/ban olymp.jpg"
 <form action="/cms/ol-query" method="post" id="olymp-results-query-form" accept-charset="UTF-8">
     <div><b>Замечание:</b> Буквы "е" и "ё" считаются различными.
         <div class="form-item form-type-textfield form-item-family-name">
-            <label for="edit-family-name">Фамилия <span class="form-required" title="Обязательно для заполнения.">*</span></label>
-            <input type="text" id="edit-family-name" name="family_name" value="" size="60" maxlength="128" class="form-text required">
+            <input type="text" id="edit-family-name" name="family_name" value="" size="60" maxlength="128" class="form-text required" placeholder="Фамилия">
         </div>
         <div class="form-item form-type-textfield form-item-name">
-            <label for="edit-name">Имя <span class="form-required" title="Обязательно для заполнения.">*</span></label>
-            <input type="text" id="edit-name" name="name" value="" size="60" maxlength="128" class="form-text required">
+            <input type="text" id="edit-name" name="name" value="" size="60" maxlength="128" class="form-text required" placeholder="Имя">
         </div>
         <div class="form-item form-type-select form-item-paral">
-            <label for="edit-paral">Параллель участия <span class="form-required" title="Обязательно для заполнения.">*</span></label>
+            <label for="edit-paral">За какой класс вы решал задачи</label>
             <select id="edit-paral" name="paral" class="form-select required">
                 <option value="" selected="selected">- Выберите -</option>
                 <option value="4">4</option>
@@ -29,10 +27,9 @@ image: "/images/ban olymp.jpg"
                 <option value="10">10</option>
                 <option value="11">11</option>
             </select>
-            <div class="description">Параллель участия — это номер параллели, задачи которой Вы решали в работе. Если Вы решали условия для своего класса, то это просто номер вашего класса.</div>
         </div>
         <div class="form-item form-type-select form-item-tour-format">
-            <label for="edit-tour-format">Формат проведения тура <span class="form-required" title="Обязательно для заполнения.">*</span></label>
+            <label for="edit-tour-format">Формат проведения тура</label>
             <select id="edit-tour-format" name="tour_format" class="form-select required">
                 <option value="" selected="selected">- Выберите -</option>
                 <option value="zaoch">Заочный</option>
@@ -40,18 +37,15 @@ image: "/images/ban olymp.jpg"
                 <option value="distant_2">Дистанционный 2</option>
                 <option value="pers">Персональное приглашение</option>
             </select>
-            <div class="description">Выберите формат проведения тура, в котором Вы участвовали.</div>
         </div>
         <div class="form-item form-type-textfield form-item-school-name">
-            <label for="edit-school-name">Номер или название школы (необязательно) </label>
-            <input type="text" id="edit-school-name" name="school_name" value="" size="60" maxlength="128" class="form-text">
+            <input type="text" id="edit-school-name" name="school_name" value="" size="60" maxlength="128" class="form-text" placeholder="Номер или название школы">
         </div>
         <div class="form-item form-type-textfield form-item-city">
-            <label for="edit-city">Город (оставьте пустым, если Санкт-Петербург) </label>
-            <input type="text" id="edit-city" name="city" value="" size="60" maxlength="128" class="form-text">
+            <input type="text" id="edit-city" name="city" value="" size="60" maxlength="128" class="form-text" placeholder="Город (оставьте пустым, если Санкт-Петербург">
         </div>
             <div class="form-item form-type-select form-item-year">
-            <label for="edit-year">Год <span class="form-required" title="Обязательно для заполнения.">*</span></label>
+            <label for="edit-year">Год</label>
             <select id="edit-year" name="year" class="form-select required">
                 <option value="2012">2012</option>
                 <option value="2013">2013</option>
