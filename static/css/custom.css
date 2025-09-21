@@ -105,6 +105,14 @@ textarea:focus {
     outline: none;
 }
 
+input[type="submit"] { 
+    border: 1px solid var(--shadow-color);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px var(--shadow-color);
+}
+
+
 button {
     width: 100%;
     padding: 10px;

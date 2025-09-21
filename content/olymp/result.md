@@ -11,10 +11,10 @@ image: "/images/ban olymp.jpg"
     <div><b>Замечание:</b> Буквы "е" и "ё" считаются различными.
         <div class="form-item form-type-textfield form-item-family-name">
             <input type="text" id="edit-family-name" name="family_name" value="" size="60" maxlength="128" class="form-text required" placeholder="Фамилия">
-        </div>
+        </div><br>
         <div class="form-item form-type-textfield form-item-name">
             <input type="text" id="edit-name" name="name" value="" size="60" maxlength="128" class="form-text required" placeholder="Имя">
-        </div>
+        </div><br>
         <div class="form-item form-type-select form-item-paral">
             <label for="edit-paral">За какой класс вы решал задачи</label>
             <select id="edit-paral" name="paral" class="form-select required">
@@ -28,7 +28,7 @@ image: "/images/ban olymp.jpg"
                 <option value="10">10</option>
                 <option value="11">11</option>
             </select>
-        </div>
+        </div><br>
         <div class="form-item form-type-select form-item-tour-format">
             <label for="edit-tour-format">Формат проведения тура</label>
             <select id="edit-tour-format" name="tour_format" class="form-select required">
@@ -38,13 +38,13 @@ image: "/images/ban olymp.jpg"
                 <option value="distant_2">Дистанционный 2</option>
                 <option value="pers">Персональное приглашение</option>
             </select>
-        </div>
+        </div><br>
         <div class="form-item form-type-textfield form-item-school-name">
             <input type="text" id="edit-school-name" name="school_name" value="" size="60" maxlength="128" class="form-text" placeholder="Номер или название школы">
-        </div>
+        </div><br>
         <div class="form-item form-type-textfield form-item-city">
-            <input type="text" id="edit-city" name="city" value="" size="60" maxlength="128" class="form-text" placeholder="Город (оставьте пустым, если Санкт-Петербург">
-        </div>
+            <input type="text" id="edit-city" name="city" value="" size="60" maxlength="128" class="form-text" placeholder="Город (оставьте пустым, если Санкт-Петербург)">
+        </div><br>
             <div class="form-item form-type-select form-item-year">
             <label for="edit-year">Год</label>
             <select id="edit-year" name="year" class="form-select required">
@@ -63,9 +63,11 @@ image: "/images/ban olymp.jpg"
                 <option value="2024">2024</option>
                 <option value="2025" selected="selected">2025</option>
             </select>
-        </div>
-        <input type="submit" id="edit-submit" name="op" value="Узнать результаты" class="form-submit">
-        <input type="hidden" name="form_build_id" value="form-dY7gsxUcf8uLwOqsCLHvecG5mmLTXQzywDVAdoz8b18">
-        <input type="hidden" name="form_id" value="olymp_results_query_form">
+        </div><br>
+        <p style="text-align: center;"> 
+            <input type="submit" id="edit-submit" name="op" value="Узнать результаты" class="form-submit">
+        </p>
+        <!-- <input type="hidden" name="form_build_id" value="form-dY7gsxUcf8uLwOqsCLHvecG5mmLTXQzywDVAdoz8b18">
+        <input type="hidden" name="form_id" value="olymp_results_query_form"> -->
     </div>
 </form>

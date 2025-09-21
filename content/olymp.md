@@ -36,9 +36,9 @@ isCard: true
 
 Второй отборочный тур олимпиады состоится 4 октября (суббота) с 16.00 до 21.00 по московскому времени. Если вы успешно прошли по результатам первого тура, то участовать во втором - не надо.
 
-Отборочный тур пройдет на платформе Т-образования. Регистрация [<span style="color:blue">здесь</span>](https://education.tbank.ru/school/events/yumsh-olymp/).
+Отборочный тур пройдет на платформе Т-образования. Регистрация [здесь](https://education.tbank.ru/school/events/yumsh-olymp/).
 
-[<span style="color:blue">Телеграм-бот</span>](https://t.me/t_olymp_UMSH_bot) - Технические вопросы, уточнения по условиям и т.д.
+[Телеграм-бот](https://t.me/t_olymp_UMSH_bot) - Технические вопросы, уточнения по условиям и т.д.
  
 ### Очный тур
 
@@ -48,7 +48,7 @@ isCard: true
 
 + 4-6 классы - 18 января 2026 г.
 
-На заключительный тур приглашаются победители и призёры отборочных туров. Также приглашаются победители и призёры некоторых других олимпиад (список выводящих мероприятий по [<span style="color:blue">ссылке</span>](https://zverevzve.github.io/YUMSH-site/olymp/list/)). 
+На заключительный тур приглашаются победители и призёры отборочных туров. Также приглашаются победители и призёры некоторых других олимпиад (список выводящих мероприятий по [ссылке](https://zverevzve.github.io/YUMSH-site/olymp/list/)). 
 
 На заключительный тур учащимся 9-11 классов необходимо взять паспорт, учащимся 4-8 классов - паспорт или ученический билет (документ с актуальной фотографией - справка из школы с заверенной фотографией, школьная карта москвича,...).
 
@@ -59,17 +59,17 @@ isCard: true
 ---
 ## Результаты и Электронные дипломы
 
-[<span style="color:blue">Результаты можно посмореть на новой странице</span>](https://zverevzve.github.io/YUMSH-site/olymp/result/)
+[Результаты можно посмореть на новой странице](https://zverevzve.github.io/YUMSH-site/olymp/result/)
 
-[<span style="color:blue">Электронный диплом можно получить по ссылке</span>](https://zverevzve.github.io/YUMSH-site/olymp/diploma/)
+[Электронный диплом можно получить по ссылке](https://zverevzve.github.io/YUMSH-site/olymp/diploma/)
 
 ---
 ## Нормативные документы и правила
 
-[<span style="color:blue">Положение об олимпиаде ЮМШ</span>](/doc/polozhenie_yumsh.pdf)  
-[<span style="color:blue">Регламент олимпиады ЮМШ</span>](/doc/reglament_yumsh.pdf)
+[Положение об олимпиаде ЮМШ](/doc/polozhenie_yumsh.pdf)  
+[Регламент олимпиады ЮМШ](/doc/reglament_yumsh.pdf)
 
-[<span style="color:blue">Правила устной олимпиады</span>](https://zverevzve.github.io/YUMSH-site/olymp/rules)
+[Правила устной олимпиады](https://zverevzve.github.io/YUMSH-site/olymp/rules)
 
 
 ---
