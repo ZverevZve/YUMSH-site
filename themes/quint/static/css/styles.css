@@ -8,7 +8,7 @@
     --borders: #555;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     :root {
         --primary-bg: #252627;
         --primary-text: #fff;
@@ -19,7 +19,7 @@
     img {
         opacity: 90%;
     }
-}
+} */
 
 /* Font Faces */
 @font-face {

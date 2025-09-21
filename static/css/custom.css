@@ -76,3 +76,38 @@ form {
     width: 100%;
     max-width: 500px;
 }
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--shadow-color);
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: var(--link-color);
+    box-shadow: 0 4px 8px var(--shadow-color);
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+    border-color: var(--link-color);
+    outline: none;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin: 15px auto;
+    background-color: var(--primary-text);
+    color: var(--primary-bg);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: var(--primary-bg);
+}
