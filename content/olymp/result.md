@@ -5,6 +5,7 @@ draft: false
 image: "/images/ban olymp.jpg"
 ---
 
+[Результаты можно узнать по старой ссылке](https://yumsh.ru/cms/ol-query)
 
 <form action="/cms/ol-query" method="post" id="olymp-results-query-form" accept-charset="UTF-8">
     <div><b>Замечание:</b> Буквы "е" и "ё" считаются различными.
