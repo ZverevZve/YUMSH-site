@@ -10,6 +10,15 @@
     }
 } */
 
+:root {
+    --primary-bg: #fff;
+    --primary-text: #353d49;
+    --secondary-text: #252627;
+    --link-color: rgb(65, 65, 201);
+    --shadow-color: rgba(0, 0, 0, 0.15);
+    --borders: #555;
+}
+
 a {
     position: relative;
     transition: color 0.3s ease;
@@ -83,9 +92,9 @@ textarea {
     width: 100%;
     padding: 10px;
     border: 1px solid var(--shadow-color);
-    border-radius: 4px;
+    border-radius: 10px;
     box-sizing: border-box;
-    background-color: var(--link-color);
+    background-color: white;
     box-shadow: 0 4px 8px var(--shadow-color);
 }
 
@@ -103,7 +112,7 @@ button {
     background-color: var(--primary-text);
     color: var(--primary-bg);
     border: none;
-    border-radius: 4px;
+    border-radius: 10px;
     cursor: pointer;
     transition: background-color 0.3s;
 }
