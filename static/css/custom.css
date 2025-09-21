@@ -66,3 +66,13 @@ a:hover, a:focus {
     opacity: 0.5;
     color: #585858;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 500px;
+}
