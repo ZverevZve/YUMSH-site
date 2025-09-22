@@ -22,7 +22,7 @@
 a {
     position: relative;
     transition: color 0.3s ease;
-    text-shadow: 1px 1px 15px #ffbc009e;
+/*     text-shadow: 1px 1px 15px #ffbc009e; */
 }
 
 a:hover, a:focus {
