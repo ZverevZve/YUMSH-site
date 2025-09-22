@@ -14,7 +14,7 @@
     --primary-bg: #fff;
     --primary-text: #353d49;
     --secondary-text: #252627;
-    --link-color: rgb(255, 148, 0);
+    --link-color: rgb(255, 127, 0);
     --shadow-color: rgba(0, 0, 0, 0.15);
     --borders: #555;
 }
@@ -22,7 +22,7 @@
 a {
     position: relative;
     transition: color 0.3s ease;
-    text-shadow: 1px 1px 20px black;
+    text-shadow: 1px 1px 15px #ffbc009e;
 }
 
 a:hover, a:focus {
