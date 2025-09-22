@@ -14,7 +14,7 @@
     --primary-bg: #fff;
     --primary-text: #353d49;
     --secondary-text: #252627;
-    --link-color: rgb(65, 65, 201);
+    --link-color: rgb(197, 176, 18);
     --shadow-color: rgba(0, 0, 0, 0.15);
     --borders: #555;
 }
@@ -114,7 +114,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover{
-    background-color: #80bff6
+    background-color: var(--link-color);
 }
 
 
