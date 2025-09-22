@@ -11,15 +11,15 @@ image: "/images/ban olymp.jpg"
     <div>
         <div class="form-item form-type-textfield form-item-family">
             <input type="text" id="edit-family" name="family" value="" size="60" maxlength="128" class="form-text required" placeholder="Фамилия">
-        </div>
+        </div><br>
         <div class="form-item form-type-textfield form-item-name">
             <input type="text" id="edit-name" name="name" value="" size="60" maxlength="128" class="form-text required" placeholder="Имя">
-        </div>
+        </div><br>
         <div class="form-item form-type-textfield form-item-patronymic">
             <input type="text" id="edit-patronymic" name="patronymic" value="" size="60" maxlength="128" class="form-text" placeholder="Отчество">
-        </div>
+        </div><br>
         <div class="form-item form-type-select form-item-paral">
-            <label for="edit-paral">Параллель участия <span class="form-required" title="Обязательно для заполнения.">*</span></label>
+            <label for="edit-paral">За какой класс вы решал задачи</label>
             <select id="edit-paral" name="paral" class="form-select required">
                 <option value="" selected="selected">- Выберите -</option>
                 <option value="4">4</option>
@@ -31,17 +31,15 @@ image: "/images/ban olymp.jpg"
                 <option value="10">10</option>
                 <option value="11">11</option>
             </select>
-        </div>
+        </div><br>
         <div class="form-item form-type-textfield form-item-reg-code">
-            <input type="text" id="edit-reg-code" name="reg_code" value="" size="60" maxlength="128" class="form-text" placeholder="Код региона">
-            <div class="description">Например, 78 для Санкт-Петербурга</div>
-        </div>
+            <input type="text" id="edit-reg-code" name="reg_code" value="" size="60" maxlength="128" class="form-text" placeholder="Код региона (78 для Санкт-Петербурга)">
+        </div><br>
         <div class="form-item form-type-textfield form-item-code">
-            <input type="text" id="edit-code" name="code" value="" size="60" maxlength="128" class="form-text" placeholder="Код участника">
-            <div class="description">Из карточки участника</div>
-        </div>
+            <input type="text" id="edit-code" name="code" value="" size="60" maxlength="128" class="form-text" placeholder="Код участника (Число из карточки)">
+        </div><br>
         <div class="form-item form-type-select form-item-year">
-            <label for="edit-year">Год <span class="form-required" title="Обязательно для заполнения.">*</span></label>
+            <label for="edit-year">Год</label>
                 <select id="edit-year" name="year" class="form-select required">
                 <option value="2019">2019</option>
                 <option value="2020">2020-21</option>
@@ -51,9 +49,11 @@ image: "/images/ban olymp.jpg"
                 <option value="2024">2024-25</option>
                 <option value="2025" selected="selected">2025-26</option>
             </select>
-        </div>
-        <input type="submit" id="edit-submit" name="op" value="Узнать результаты" class="form-submit">
-        <input type="hidden" name="form_build_id" value="form-vCZsC4qK91vtMsfqxgjoJZqwu3f4hOzYoC53akxvwYU">
-        <input type="hidden" name="form_id" value="olymp_results_tour2_query_form">
+        </div><br>
+        <p style="text-align: center;"> 
+            <input type="submit" id="edit-submit" name="op" value="Узнать результаты" class="form-submit">
+        </p>
+        <!-- <input type="hidden" name="form_build_id" value="form-vCZsC4qK91vtMsfqxgjoJZqwu3f4hOzYoC53akxvwYU">
+        <input type="hidden" name="form_id" value="olymp_results_tour2_query_form"> -->
     </div>
 </form>
