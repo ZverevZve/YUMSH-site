@@ -28,7 +28,7 @@ isCard: true
 
 Первый отборочный тур олимпиады состоялся 14 сентября (воскресенье)
 
-[<span style="color:blue">Условия первого отборочного тура</span>](https://yumsh.ru/cms/sites/default/files/olymp_25_26-1.pdf)
+[Условия первого отборочного тура](https://yumsh.ru/cms/sites/default/files/olymp_25_26-1.pdf)
 
 ### Второй дистанционный тур
 
