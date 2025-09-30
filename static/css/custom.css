@@ -34,13 +34,13 @@ table td {padding: 0.6rem 1rem; border-bottom: 1px solid #e8e9eb;}
   }
   table td {
     display: block;
-    text-align: right;
+    text-align: left;
   }
-  table td:before {
-    content: attr(aria-label);
+  /* table td:before {
+     content: attr(aria-label); 
     float: left;
     font-weight: bold;
-  }
+  } */
 }
 
 a {
