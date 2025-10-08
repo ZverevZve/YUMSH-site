@@ -45,26 +45,16 @@ isCard: true
 Обращаем внимание тех, кто заполнял форму записи в кружок: когда станет полностью известно расписание, оно будет выслано на указанную вами электронную почту. Но вы можете приходить на кружок, даже если не получили это письмо. Никаких "подтверждений зачисления" по телефону или почте не будет, просто приходите в нужное время. Если вы заполнили форму после начала занятий, то письмо с расписанием уже не будет выслано и вы можете просто прийти по расписанию, указанному в таблице.
 
 ---
-## Кружки по програмированию
-
-[![Кружки по програмированию](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-03.png)](/club/prog)
+## [![Кружки по програмированию](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-03.png)](/club/prog)
 
 ---
-## Кружки по астрономии
-
-[![Кружки по астрономии](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-05.png)](/club/astro)
+## [![Кружки по астрономии](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-05.png)](/club/astro)
 
 ---
-## Кружки по физике
-
-[![Кружки по физике](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-02.png)](/club/phys)
+## [![Кружки по физике](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-02.png)](/club/phys)
 
 ---
-## ИнфинITи
-
-[![ИнфинITи](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-04.png)](/club/infinity)
+## [![ИнфинITи](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-04.png)](/club/infinity)
 
 ---
-## ОДОД лицея №533
-
-[![ОДОД лицея №533](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-05.png)](/club/odod533)
+## [![ОДОД лицея №533](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-05.png)](/club/odod533)
