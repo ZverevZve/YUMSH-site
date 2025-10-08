@@ -47,10 +47,24 @@ isCard: true
 ---
 ## Кружки по програмированию
 
+[![Кружки по програмированию](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-03.png)](/club/prog)
+
 ---
 ## Кружки по астрономии
 
-Кликай по картинке
+[![Кружки по астрономии](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-05.png)](/club/astro)
 
-[![Ночь](https://zverevzve.github.io/YUMSH-site/images/ban%20astro.jpg)](/club/astro)
+---
+## Кружки по физике
 
+[![Кружки по физике](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-02.png)](/club/phys)
+
+---
+## ИнфинITи
+
+[![ИнфинITи](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-04.png)](/club/infinity)
+
+---
+## ОДОД лицея №533
+
+[![ОДОД лицея №533](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-05.png)](/club/odod533)
