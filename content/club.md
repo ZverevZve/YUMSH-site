@@ -54,7 +54,10 @@ isCard: true
 ## [![Кружки по физике](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-02.png)](/club/phys)
 
 ---
+## [![Гуманитарные кружк](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-09.png)](/club/gum)
+
+---
 ## [![ИнфинITи](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-04.png)](/club/infinity)
 
 ---
-## [![ОДОД лицея №533](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-05.png)](/club/odod533)
+## [![ОДОД лицея №533](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-06.png)](/club/odod533)
