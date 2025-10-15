@@ -1,11 +1,10 @@
 ---
 title: Классы ЮМШ
-date: '2024-05-06T01:40:13.745Z'
+date: '2025-05-06T01:40:13.745Z'
 draft: false
 isCard: true
 image: "/images/ban.png"
 imageSmall: "/images/area of ​​activity/class.png"
-
 ---
 
 Помимо кружков для 5–8-классников, ЮМШ организует специализированные классы.

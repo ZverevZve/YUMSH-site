@@ -1,6 +1,6 @@
 ---
 title: Олимпиада ЮМШ
-date: '2024-05-06T01:40:13.745Z'
+date: '2025-05-06T01:40:13.745Z'
 draft: false
 description: >-
   
