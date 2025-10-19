@@ -1,7 +1,6 @@
 ---
-title: "О ЮМШ"
+title: "История ЮМШ"
 draft: false
-menus: "main"
 date:
 ---
 
