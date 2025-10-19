@@ -50,7 +50,10 @@ isCard: true
 ---
 ## [![Кружки по програмированию](https://zverevzve.github.io/YUMSH-site/images/миниплашки_размер1-12.png)](https://vk.com/yumshcoding)
 
+---
+
 ## [![Кружки по програмированию](https://zverevzve.github.io/YUMSH-site/images/миниплашки_размер2-15.png)](https://vk.com/yumshcoding)
+---
 
 ## [![Кружки по програмированию](https://zverevzve.github.io/YUMSH-site/images/миниплашки_размер3-18.png)](https://vk.com/yumshcoding)
 
