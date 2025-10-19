@@ -16,10 +16,10 @@ imageSmall: "/images/area of ​​activity/class.png"
 Больше про  историю ЮМШ{сделать ссылку на отдельную страницу} вы можете прочитать в отдельной статье. Там же вы можете посмотреть пофамильные составы выпускников.
 
 ---
-## [![Гуманитарные классы 533 лицея](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-07.png)](/class/gum)
+## [![Гуманитарные классы 533 лицея](https://zverevzve.github.io/YUMSH-site/images/плашки_классы-10.png)](/class/gum)
 
 ---
-## [![Химики-Биологическое направление](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-08.png)](/class/hb)
+## [![Химики-Биологическое направление](https://zverevzve.github.io/YUMSH-site/images/плашки_классы-11.png)](/class/hb)
 
 ---
 ## Поступление в классы ЮМШ
