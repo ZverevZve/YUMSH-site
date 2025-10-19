@@ -46,13 +46,16 @@ isCard: true
 В нашем  школе также проводятся кружки по других предметам. Всю необходимую информацию вы можете получить, перейдя по ссылками ниже
 
 ---
-## [![Кружки по програмированию](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-03.png)](/club/prog)
+## [![Кружки по програмированию](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-03.png)](https://vk.com/yumshcoding)
 
 ---
-## [![Кружки по астрономии](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-05.png)](/club/astro)
+## [![Кружки по астрономии](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-05.png)](http://school.astro.spbu.ru/?q=node/299)
 
 ---
 ## [![Кружки по физике](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-02.png)](/club/phys)
+
+---
+## [![Кружки по химии](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-08.png)](https://docs.google.com/spreadsheets/d/1fSyPJxVL8adyolzkyrx03sQB6GfVfU4hLo8OakD4ftM/edit?usp=drivesdk)
 
 ---
 ## [![Гуманитарные кружк](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-09.png)](/club/gum)
