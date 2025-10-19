@@ -58,6 +58,10 @@ isCard: true
 ## [![Кружки по програмированию](https://zverevzve.github.io/YUMSH-site/images/миниплашки_размер3-18.png)](https://vk.com/yumshcoding)
 
 ---
+## [![Кружки по програмированию](https://zverevzve.github.io/YUMSH-site/images/миниплашки_размер3-20.png)](https://vk.com/yumshcoding)
+
+---
+
 ## [![Кружки по астрономии](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-05.png)](http://school.astro.spbu.ru/?q=node/299)
 
 ---
