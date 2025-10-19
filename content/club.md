@@ -57,7 +57,7 @@ isCard: true
 ## [![Гуманитарные кружк](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-09.png)](/club/gum)
 
 ---
-## [![ИнфинITи](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-04.png)](/club/infinity)
+## [![ИнфинITи](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-04.png)](https://vk.com/infiniti533)
 
 ---
-## [![ОДОД лицея №533](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-06.png)](/club/odod533)
+## [![ОДОД лицея №533](https://zverevzve.github.io/YUMSH-site/images/плашки_сайтюмш-06.png)](https://odod533spb.tilda.ws/#rec794396195)
